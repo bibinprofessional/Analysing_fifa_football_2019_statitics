@@ -1,0 +1,10 @@
+This is a machine learning model that analyses the fifa football 2019 data and gives prefered data which can be used by selectors for next fifa player selection.
+This gives specific information of players such as 
+# Most internationaly reputed fifa players
+# Players under 20 with most skill moves
+# Youngest players of fifa
+# Oldest players of fifa
+# Top right footed football players of fifa
+# Top left footed football players of fifa
+# Players with most years of membership
+# Clubs with their top ten players
